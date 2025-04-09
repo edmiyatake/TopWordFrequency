@@ -43,7 +43,7 @@ public class WordFrequency  {
         }
 
         // for debugging
-        System.out.println("Loaded stopwords: " + stopWords);
+        // System.out.println("Loaded stopwords: " + stopWords);
 
         try {
             // Read the entire text from the input file (assumes UTF-8 encoding)
